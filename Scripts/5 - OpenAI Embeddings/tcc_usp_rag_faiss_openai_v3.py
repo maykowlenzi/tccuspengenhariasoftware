@@ -11,7 +11,7 @@ from sklearn.metrics import accuracy_score, precision_recall_fscore_support
 from tqdm import tqdm
 
 # Sua chave da OpenAI
-openai.api_key = "sk-proj-L6aiJ66IlvlZylOchqkfT3BlbkFJyDXNH0XgT89gv3WQou9f"
+openai.api_key = "OPENAI_API"
 
 # Nome dos arquivos persistentes
 INDEX_FILE = "faiss_classificacao_longa_openai.index"
