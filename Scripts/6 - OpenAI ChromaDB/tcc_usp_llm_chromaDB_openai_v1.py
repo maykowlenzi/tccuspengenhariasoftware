@@ -4,7 +4,7 @@
 import os
 import pandas as pd
 
-os.environ['OPENAI_API_KEY']= "sk-proj-L6aiJ66IlvlZylOchqkfT3BlbkFJyDXNH0XgT89gv3WQou9f"
+os.environ['OPENAI_API_KEY']= "OPENAI_KEY"
 
 
 from langchain_community.document_loaders.pdf import PyPDFLoader
